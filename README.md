@@ -1,6 +1,4 @@
 ### Vlad Lomenkov  
-<img src="" align="left" style="width: 100%" />  
-  
 
 ### Hi, there!  
   
